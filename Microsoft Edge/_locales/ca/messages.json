@@ -10,5 +10,8 @@
    },
    "rate": {
       "message" :"Ajudeu-nos i valoreu-nos"
+   },
+   "begging": {
+      "message": "Demanant ♥"
    }
 }

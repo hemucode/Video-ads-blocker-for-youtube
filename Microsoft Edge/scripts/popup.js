@@ -1,6 +1,7 @@
 domReady(() => {
   translateHTML()
   initRateButton()
+  initBeggingButton()
 })
 
 function domReady (callback) {
@@ -22,4 +23,7 @@ function translateHTML (dataKey = 'message') {
 
 function initRateButton() {
   document.querySelector('.teaser').href = `https://microsoftedge.microsoft.com/addons/detail/video-ads-blocker-for-you/panjahiklijbfpnfhopdgkpacpdnjnan`;
+}
+function initBeggingButton() {
+  document.querySelector('.begging').href = `https://thegayen.github.io/Begging/`;
 }

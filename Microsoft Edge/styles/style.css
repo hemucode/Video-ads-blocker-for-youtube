@@ -15,7 +15,10 @@ html,body {
   margin: 0px;
   padding: 0px;
 }
-
+#grids{
+  display: grid;
+  grid-template-columns: auto auto;
+}
 .btn {
   cursor: pointer;
 }
