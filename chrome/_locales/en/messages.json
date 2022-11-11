@@ -3,10 +3,7 @@
       "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!"
    },
    "app_name": {
-      "message": "Video Ads Blocker for Pro Youtube™"
-   },
-   "full_description":{
-      "message" :"Video ads blocker for Pro Youtube™ is a content filtering and ad blocking browser extension which blocks all ads on Youtube™.It allows users to prevent page elements, such as advertisements, from being displayed. Banner, Ad-Clips or even preroll ads you usually see before the actual video on Youtube are blocked by this extension. devoloper by thegayen"
+      "message": "Video Ads Blocker for Youtube™"
    },
    "rate":{
       "message": "Please help and rate us!"

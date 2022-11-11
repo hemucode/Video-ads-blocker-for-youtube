@@ -9,11 +9,10 @@ setInterval(()=>{
     if(btn) {btn.click()}
     if(btn2) {btn2.click()}
     if( ! document.querySelector('.ad-showing') ) return
- 
           const video=document.querySelector('video')
           if( ! video)  return
 
-          if( btn) {
+          if(btn) {
             btn.click()
           } else {
             video.currentTime = isNaN(video.duration) ? 0 : video.duration

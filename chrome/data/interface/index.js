@@ -39,10 +39,10 @@ function hoverButton(){
 }  
 function mouseOver() {
   if (localStorage.message=="nyancat") {
-    document.querySelector(".cta-message").innerText="Install YouTube Nyan Cat";
+    document.querySelector(".cta-message").innerText="YouTube Nyan Cat";
     document.querySelector(".div_myadblock").style.background="#a900ff";
   }else{
-    document.querySelector(".cta-message").innerText="Install YouTube Theme";
+    document.querySelector(".cta-message").innerText="Upgrade your Theme";
     document.querySelector(".div_myadblock").style.background="#0047ff";
   }
     
@@ -50,7 +50,7 @@ function mouseOver() {
 } 
 
 function mouseOut() {
-    document.querySelector(".cta-message").innerText="Upgrade your YouTube";
+    document.querySelector(".cta-message").innerText="Upgrade your Theme";
     document.querySelector(".cta-close").style.display="none";
     document.querySelector(".div_myadblock").style.background="#fff";
 }
