@@ -40,12 +40,12 @@ html,body {
   margin-left: 5px;
 }
 .top-label {
-    background: #c30b0b;
+    background: #760000;
     color: white;
-    font-family: sans-serif;
     border-radius: 2px;
-    font-size: 18px;
-    font-weight: 800;
+    font-family: unset,sans-serif;
+    font-size: 20px;
+    font-weight: 600;
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 0px;
 }

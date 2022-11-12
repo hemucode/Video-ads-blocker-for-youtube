@@ -1,6 +1,6 @@
 /*!
- *  By @Codehemu - https://github.com/hemucode/nonstop-youtube/license ( JS: MIT License)
- *  License - https://github.com/hemucode/nonstop-youtube/license ( CSS: MIT License)
+ *  By @Codehemu - https://github.com/hemucode/Video-ads-blocker-for-youtube/license ( JS: MIT License)
+ *  License - https://github.com/hemucode/Video-ads-blocker-for-youtube/license ( CSS: MIT License)
  */
 
 setInterval(()=>{

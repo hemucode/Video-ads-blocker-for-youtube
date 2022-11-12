@@ -42,7 +42,7 @@ function mouseOver() {
     document.querySelector(".cta-message").innerText="YouTube Nyan Cat";
     document.querySelector(".div_myadblock").style.background="#a900ff";
   }else{
-    document.querySelector(".cta-message").innerText="Upgrade your Theme";
+    document.querySelector(".cta-message").innerText="Upgrade Theme";
     document.querySelector(".div_myadblock").style.background="#0047ff";
   }
     
@@ -50,7 +50,7 @@ function mouseOver() {
 } 
 
 function mouseOut() {
-    document.querySelector(".cta-message").innerText="Upgrade your Theme";
+    document.querySelector(".cta-message").innerText="Upgrade Theme";
     document.querySelector(".cta-close").style.display="none";
     document.querySelector(".div_myadblock").style.background="#fff";
 }
@@ -59,7 +59,7 @@ function linkopen(){
   if (localStorage.message=="nyancat") {
     window.open("https://www.codehemu.com/2022/04/nyancat.html",'_blank');
   }else{
-    window.open("https://www.codehemu.com/p/mytubeforyoutube.html",'_blank');
+    window.open("https://chrome.google.com/webstore/detail/mytube-for-youtube/mlolgpcecboccnknllkhfdafmphinbon",'_blank');
   }
 
 }
