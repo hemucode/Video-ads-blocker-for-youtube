@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "رازداری سے آگاہ، محفوظ ایڈ بلاکر برائے YouTube™۔ YouTube.com پر اشتہارات کو روکتا ہے۔"
+      "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock for YouTube™ — best adblocker"
+      "message": "Video Ads Blocker for Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock for Youtube™ کو تقریباً محفوظ کیا گیا۔ آپ کی زندگی کا $savedTime$۔",
+      "message": "VAB-YTکو تقریباً محفوظ کیا گیا۔ آپ کی زندگی کا $savedTime$۔",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Adblock for YouTube™ کے ذریعے صاف کیا گیا۔"
+      "message": "VAB-YTکے ذریعے صاف کیا گیا۔"
    }
 }

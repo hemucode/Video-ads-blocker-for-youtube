@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Adblock YouTube™-rako — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Pribatutasuna jakitun, YouTube™-rako Adblock segurua. YouTube.com-en iragarkiak blokeatzen ditu.",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "Desgaituta"
   },
   "timesaveInfo": {
-    "message": "Youtube™-rako Adblock gorde da gutxi gorabehera. Zure bizitzako $savedTime$.",
+    "message": "VAB-YT gorde da gutxi gorabehera. Zure bizitzako $savedTime$.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "Adblock-ek garbitu du YouTube™-rako",
+    "message": "VAB-YT du YouTube™-rako",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

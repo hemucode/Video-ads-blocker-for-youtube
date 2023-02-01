@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "YouTube™ ಗಾಗಿ ಗೌಪ್ಯತೆ ಅರಿವು, ಸುರಕ್ಷಿತ ಆಡ್‌ಬ್ಲಾಕರ್. YouTube.com ನಲ್ಲಿ ಜಾಹೀರಾತುಗಳನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತದೆ."
+      "message": "YouTube ನಿಂದ ಎಲ್ಲಾ ಕಿರಿಕಿರಿ ಜಾಹೀರಾತುಗಳು ಮತ್ತು ಬ್ಯಾನರ್ ಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "YouTube™ ಗಾಗಿ ಆಡ್‌ಬ್ಲಾಕ್"
+      "message": "Yಯುಟ್ಯೂಬ್ ಗಾಗಿ ವೀಡಿಯೊ ಜಾಹೀರಾತುಗಳ ಬ್ಲಾಕರ್"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",

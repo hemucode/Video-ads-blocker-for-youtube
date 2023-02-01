@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Tietosuojatietoinen, turvallinen Adblock for YouTube™. Estää mainokset YouTube.comissa."
+      "message": "Poistaa kaikki ärsyttävät mainokset ja bannerit YouTubesta!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock for YouTube™ — best adblocker"
+      "message": "Video Ads blocker Youtube ™: lle"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock for Youtube™ säästänyt n. $savedTime$ elämästäsi.",
+      "message": "VAB-YT säästänyt n. $savedTime$ elämästäsi.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Puhdistaa Adblock for YouTube™"
+      "message": "Puhdistaa VAB-YT"
    }
 }

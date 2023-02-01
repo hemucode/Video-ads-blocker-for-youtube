@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "YouTube™க்கான தனியுரிமை விழிப்புணர்வு, பாதுகாப்பான Adblock. YouTube.com இல் விளம்பரங்களைத் தடுக்கிறது."
+      "message": "YoYouTube இலிருந்து அனைத்து எரிச்சலூட்டும் விளம்பரங்களையும் பதாகைகளையும் நீக்குகிறது!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "YouTube™க்கான Adblock — best adblocker"
+      "message": "Video Ads Blocker for Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Youtube™ க்கான Adblock சுமார் சேமிக்கப்பட்டது. உங்கள் வாழ்நாளின் $சேமிக்கப்பட்ட நேரம்$.",
+      "message": "VAB-YT சுமார் சேமிக்கப்பட்டது. உங்கள் வாழ்நாளின் $சேமிக்கப்பட்ட நேரம்$.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "YouTube™க்கான Adblock மூலம் சுத்தம் செய்யப்பட்டது"
+      "message": "VAB-YT மூலம் சுத்தம் செய்யப்பட்டது"
    }
 }

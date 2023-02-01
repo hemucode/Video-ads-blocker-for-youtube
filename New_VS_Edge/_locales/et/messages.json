@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Privaatsustundlik, turvaline YouTube™-i reklaamiblokeerija. Blokeerib reklaamid saidil YouTube.com."
+      "message": "Eemaldab YouTube'ist kõik tüütud reklaamid ja bännerid!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock YouTube™ jaoks — best adblocker"
+      "message": "Video Ads Blocker for Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock for Youtube™ säästis ca. $savedTime$ oma elueast.",
+      "message": "VAB-YT säästis ca. $savedTime$ oma elueast.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Puhastanud Adblock for YouTube™"
+      "message": "Puhastanud VAB-YT"
    }
 }

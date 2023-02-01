@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Adblock għal YouTube™ — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Konxju tal-privatezza, Adblock sikur għal YouTube™. Jimblokka r-Reklami fuq YouTube.com.",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "B'diżabilità"
   },
   "timesaveInfo": {
-    "message": "Adblock għal Youtube™ issejvjat madwar. $savedTime$ tal-ħajja tiegħek.",
+    "message": "VAB-YT issejvjat madwar. $savedTime$ tal-ħajja tiegħek.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "Imnaddaf minn Adblock għal YouTube™",
+    "message": "Imnaddaf minn VAB-YT",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

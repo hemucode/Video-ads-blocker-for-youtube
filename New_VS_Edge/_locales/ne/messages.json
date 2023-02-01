@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "YouTube™ को लागि Adblock — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "गोपनीयता सचेत, YouTube™ को लागि सुरक्षित Adblock। YouTube.com मा विज्ञापनहरू रोक्छ।",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {

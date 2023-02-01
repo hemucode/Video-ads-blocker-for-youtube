@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Kufahamu faragha, Adblock salama ya YouTube™. Huzuia Matangazo kwenye YouTube.com."
+      "message": "KHuondoa matangazo na mabango yote yanayokasirisha kutoka YouTube!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock ya YouTube™ — best adblocker"
+      "message": "Video Ads kizuizi kwa Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock ya Youtube™ iliyohifadhiwa takriban. $savedTime$ ya maisha yako.",
+      "message": "VAB-YT iliyohifadhiwa takriban. $savedTime$ ya maisha yako.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Imesafishwa na Adblock ya YouTube™"
+      "message": "Imesafishwa na VAB-YT"
    }
 }

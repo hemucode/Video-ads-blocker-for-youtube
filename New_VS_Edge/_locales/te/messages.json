@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "YouTube™ కోసం గోప్యతా అవగాహన, సురక్షిత Adblock. YouTube.comలో ప్రకటనలను బ్లాక్ చేస్తుంది."
+      "message": "ouTube నుండి అన్ని బాధించే ప్రకటనలు మరియు బ్యానర్ లను తొలగిస్తుంది!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "YouTube™ కోసం యాడ్‌బ్లాక్ — best adblocker"
+      "message": "Video Ads Blocker for Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Youtube™ కోసం Adblock సుమారుగా సేవ్ చేయబడింది. మీ జీవితకాలంలో $savedTime$.",
+      "message": "VAB-YT సుమారుగా సేవ్ చేయబడింది. మీ జీవితకాలంలో $savedTime$.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "YouTube™ కోసం Adblock ద్వారా క్లీన్ చేయబడింది"
+      "message": "VAB-YT ద్వారా క్లీన్ చేయబడింది"
    }
 }

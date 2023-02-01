@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Privacybewuste, veilige Adblock voor YouTube™. Blokkeert advertenties op YouTube.com."
+      "message": "Verwijdert alle vervelende advertenties en banners van YouTube!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock voor YouTube™ — best adblocker"
+      "message": "Videoadvertentieblokkering"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Opgeruimd door Adblock voor YouTube™"
+      "message": "Opgeruimd door VAB-YT"
    }
 }

@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Захищений блокувальник реклами для YouTube™ з дотриманням конфіденційності. Блокує рекламу на YouTube.com."
+      "message": "Видаляє всі надокучливі реклами та банери з YouTube!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock для YouTube™ — best adblocker"
+      "message": "Video Ads Blocker для Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock для Youtube™ збережено прибл. $savedTime$ вашого життя.",
+      "message": "VAB-YT збережено прибл. $savedTime$ вашого життя.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Очищено Adblock для YouTube™"
+      "message": "Очищено VAB-YT"
    }
 }

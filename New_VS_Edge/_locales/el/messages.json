@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Με επίγνωση του απορρήτου, ασφαλές Adblock για το YouTube™. Αποκλείει τις διαφημίσεις στο YouTube.com."
+      "message": "Καταργεί όλες τις ενοχλητικές διαφημίσεις και πανό από το YouTube!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock για το YouTube™ — best adblocker"
+      "message": "Αποκλεισμός διαφημίσεων βίντεο για το Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Το Adblock για Youtube™ αποθηκεύτηκε περίπου. $savedTime$ της ζωής σας.",
+      "message": "Το VAB-YT αποθηκεύτηκε περίπου. $savedTime$ της ζωής σας.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Καθαρίστηκε από το Adblock για το YouTube™"
+      "message": "Καθαρίστηκε από το VAB-YT"
    }
 }

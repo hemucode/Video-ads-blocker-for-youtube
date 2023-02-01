@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "YouTube™ 广告拦截器 — best adblocker",
+    "message": "视频 广告 拦截器 为了 Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "适用于 YouTube™ 的隐私保护、安全 Adblock。阻止 YouTube.com 上的广告。",
+    "message": "从 YouTube 中删除所有烦人的广告和横幅！",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "已禁用"
   },
   "timesaveInfo": {
-    "message": "Youtube™ 的 Adblock 节省了大约。您一生中的 $savedTime$。",
+    "message": "VAB-YT 节省了大约。您一生中的 $savedTime$。",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "由 Adblock for YouTube™ 清理",
+    "message": "由 VAB-YT 清理",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

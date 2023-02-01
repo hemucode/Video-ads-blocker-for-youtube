@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "ตระหนักถึงความเป็นส่วนตัว Adblock ที่ปลอดภัยสำหรับ YouTube™ บล็อกโฆษณาบน YouTube.com"
+      "message": "ลบโฆษณาและแบนเนอร์ที่น่ารำคาญทั้งหมดออกจาก YouTube!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock สำหรับ YouTube™ — best adblocker"
+      "message": "Video Ads Blocker สำหรับ Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock สำหรับ Youtube™ บันทึกไว้ประมาณ $savedTime$ ตลอดชีวิตของคุณ",
+      "message": "VAB-YT บันทึกไว้ประมาณ $savedTime$ ตลอดชีวิตของคุณ",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "ทำความสะอาดโดย Adblock สำหรับ YouTube™"
+      "message": "ทำความสะอาดโดย VAB-YT"
    }
 }

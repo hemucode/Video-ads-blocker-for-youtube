@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Безбедан Адблоцкер за ИоуТубе™ свестан приватности. Блокира рекламе на ИоуТубе.цом."
+      "message": "Уклања све досадне огласе и натписе са ИоуТубе-а!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Адблоцк за ИоуТубе™ — best adblocker"
+      "message": "Video Ads Blocker за Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Адблоцк за Иоутубе™ је уштедео прибл. $саведТиме$ свог живота.",
+      "message": "VAB-YT је уштедео прибл. $саведТиме$ свог живота.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Очистио Адблоцк за ИоуТубе™"
+      "message": "Очистио VAB-YT"
    }
 }

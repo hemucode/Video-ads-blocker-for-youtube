@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "YouTube™ үчүн Adblock — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Купуялыкты билет, YouTube™ үчүн коопсуз Adblock. YouTube.com сайтындагы жарнамаларды бөгөттөө.",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "Өчүрүлгөн"
   },
   "timesaveInfo": {
-    "message": "Youtube™ үчүн Adblock болжол менен сакталды. Өмүрүңүздүн $savedTime$.",
+    "message": "VAB-YT болжол менен сакталды. Өмүрүңүздүн $savedTime$.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "YouTube™ үчүн Adblock тарабынан тазаланган",
+    "message": "YouTube™ үчүн VAB-YT тазаланган",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

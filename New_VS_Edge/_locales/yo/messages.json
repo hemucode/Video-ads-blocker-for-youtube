@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Mọ asiri, Adblock to ni aabo fun YouTube™. Dina Awọn ipolowo lori YouTube.com."
+      "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock fun YouTube™ — best adblocker"
+      "message": "Video Ads Blocker for Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock fun Youtube™ ti o fipamọ ni isunmọ. $savedTime$ ti igbesi aye rẹ.",
+      "message": "VAB-YT ti o fipamọ ni isunmọ. $savedTime$ ti igbesi aye rẹ.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Ti sọ di mimọ nipasẹ Adblock fun YouTube™"
+      "message": "Ti sọ di mimọ nipasẹ VAB-YT"
    }
 }

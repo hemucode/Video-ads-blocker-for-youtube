@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Personvernbevisst, sikker Adblock for YouTube™. Blokkerer annonser på YouTube.com."
+      "message": "Fjerner alle irriterende annonser og bannere fra YouTube!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock for YouTube™ — best adblocker"
+      "message": "Videoannonseblokkering for Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock for Youtube™ sparte ca. $savedTime$ av livet ditt.",
+      "message": "VAB-YT sparte ca. $savedTime$ av livet ditt.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Rengjort av Adblock for YouTube™"
+      "message": "Rengjort av VAB-YT"
    }
 }

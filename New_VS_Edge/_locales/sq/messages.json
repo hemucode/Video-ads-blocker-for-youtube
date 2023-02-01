@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Adblock për YouTube™ — best adblocker",
+    "message": "AdBllokuesi i reklamave video për Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Adblock i sigurt dhe i vetëdijshëm për privatësinë për YouTube™. Bllokon reklamat në YouTube.com.",
+    "message": "Heq të gjitha reklamat dhe banderola të bezdisshme nga YouTube!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "I paaftë"
   },
   "timesaveInfo": {
-    "message": "Adblock për Youtube™ u ruajt përafërsisht. $savedTime$ të jetës suaj.",
+    "message": "VAB-YT u ruajt përafërsisht. $savedTime$ të jetës suaj.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "Pastruar nga Adblock për YouTube™",
+    "message": "Pastruar nga VAB-YT",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

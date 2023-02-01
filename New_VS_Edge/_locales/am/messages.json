@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "ግላዊነትን የሚያውቅ፣ ደህንነቱ የተጠበቀ Adblock ለYouTube™። በYouTube.com ላይ ማስታወቂያዎችን ያግዳል።"
+      "message": "ሁሉንም የሚያበሳጩ ማስታወቂያዎችን እና ባነሮችን ከዩቲዩብ ያስወግዳል!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "ማስታወቂያ እገዳ ለYouTube™ — best adblocker"
+      "message": "Video Ads Blocker ለ Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock ለ Youtube™ ተቀምጧል በግምት። የህይወት ዘመንህ $savedTime$",
+      "message": "VAB-YT ተቀምጧል በግምት። የህይወት ዘመንህ $savedTime$",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "ለYouTube™ በAdblock የጸዳ"
+      "message": "VAB-YT"
    }
 }

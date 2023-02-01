@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "গোপনীয়তা সচেতন, YouTube™ এর জন্য নিরাপদ অ্যাডব্লকার। YouTube.com-এ বিজ্ঞাপন ব্লক করে।"
+      "message": "YouTube থেকে সমস্ত বিরক্তিকর বিজ্ঞাপন এবং ব্যানার সরিয়ে দেয়!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "YouTube™ এর জন্য অ্যাডব্লক  — best adblocker"
+      "message": "YVideo Ads Blocker for Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Youtube™ এর জন্য অ্যাডব্লক প্রায় সংরক্ষিত। আপনার জীবনের $savedTime$।",
+      "message": "VAB-YT প্রায় সংরক্ষিত। আপনার জীবনের $savedTime$।",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "YouTube™ এর জন্য অ্যাডব্লক দ্বারা পরিষ্কার করা হয়েছে৷"
+      "message": "VAB-YT"
    }
 }

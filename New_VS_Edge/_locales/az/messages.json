@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Məxfilikdən xəbərdar, YouTube™ üçün təhlükəsiz Adblock. YouTube.com-da reklamları bloklayır."
+      "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "YouTube™ üçün Adblock — best adblocker"
+      "message": "Video Ads Blocker for Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Youtube™ üçün Adblock təqribən saxlanıldı. Ömrünüzün $savedTime$.",
+      "message": "VAB-YT təqribən saxlanıldı. Ömrünüzün $savedTime$.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "YouTube™ üçün Adblock tərəfindən təmizlənib"
+      "message": "VAB-YT tərəfindən təmizlənib"
    }
 }

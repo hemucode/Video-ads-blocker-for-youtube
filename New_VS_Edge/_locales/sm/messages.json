@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Adblock mo YouTube™ — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Fa'alilolilo fa'alilolilo, fa'amautu le Adblock mo YouTube™. poloka Fa'asalalauga ile YouTube.com.",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "Fa'aletonu"
   },
   "timesaveInfo": {
-    "message": "Adblock mo Youtube™ fa'asaoina pe tusa. $savedTime$ o lou olaga atoa.",
+    "message": "VAB-YT fa'asaoina pe tusa. $savedTime$ o lou olaga atoa.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "Fa'amama e le Adblock mo YouTube™",
+    "message": "Fa'amama e le VAB-YT",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

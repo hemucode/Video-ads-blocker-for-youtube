@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Zabezpečený Adblock pro YouTube™ s ohledem na soukromí. Blokuje reklamy na YouTube.com."
+      "message": "Odstraní z YouTube všechny otravné reklamy a bannery!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock pro YouTube™ — best adblocker"
+      "message": "Video Ads Blocker na Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock pro Youtube™ ušetřil cca. $savedTime$ vašeho života.",
+      "message": "VAB-YT ušetřil cca. $savedTime$ vašeho života.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Vyčištěno službou Adblock pro YouTube™"
+      "message": "Vyčištěno službou VAB-YT"
    }
 }

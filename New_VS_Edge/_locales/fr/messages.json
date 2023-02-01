@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Adblock sécurisé et respectueux de la vie privée pour YouTube ™. Bloque les publicités sur YouTube.com."
+      "message": "Supprime toutes les publicités et bannières gênantes de YouTube!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock pour YouTube™ — best adblocker"
+      "message": "Video Ads Blocker pour Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock pour Youtube™ a économisé env. $savedTime$ de votre vie.",
+      "message": "VAB-YT a économisé env. $savedTime$ de votre vie.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Nettoyé par Adblock pour YouTube™"
+      "message": "Nettoyé par VAB-YT"
    }
 }

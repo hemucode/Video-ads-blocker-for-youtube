@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "YouTube™ အတွက် Adblock — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "ကိုယ်ရေးကိုယ်တာအသိ၊ YouTube™ အတွက် လုံခြုံသော Adblock။ YouTube.com တွင် ကြော်ငြာများကို ပိတ်ပါ။",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {

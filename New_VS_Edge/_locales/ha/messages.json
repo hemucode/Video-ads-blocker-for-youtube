@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Adblock don YouTube™ — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Sanin sirri, amintaccen Adblock don YouTube™. Toshe Talla akan YouTube.com.",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "An kashe"
   },
   "timesaveInfo": {
-    "message": "Adblock na Youtube™ da aka ajiye kusan. $savedTime$ na rayuwar ku.",
+    "message": "VAB-YT da aka ajiye kusan. $savedTime$ na rayuwar ku.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "Adblock ya share don YouTube™",
+    "message": "VAB-YT",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

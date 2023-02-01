@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Privatumui žinoma, saugi „YouTube™“ skelbimų blokavimo priemonė. Blokuoja skelbimus svetainėje YouTube.com."
+      "message": "Pašalina visus erzinančius skelbimus ir reklamjuostes iš „YouTube“"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "„YouTube™“ skelbimų blokas — best adblocker"
+      "message": "„YouTube“ vaizdo įrašų skelbimų blokatorius"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock for Youtube™ sutaupė apytiksliai. $savedTime$ visą gyvenimą.",
+      "message": "VAB-YT sutaupė apytiksliai. $savedTime$ visą gyvenimą.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Išvalyta Adblock for YouTube™"
+      "message": "Išvalyta VAB-YT"
    }
 }

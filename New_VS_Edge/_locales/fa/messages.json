@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Adblock ایمن و آگاه از حریم خصوصی برای YouTube™. تبلیغات در YouTube.com را مسدود می کند."
+      "message": "همه تبلیغات و آگهی های مزاحم را از YouTube حذف می کند!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock برای YouTube™ — best adblocker"
+      "message": "Video Ads blockerبرای یوتیوب"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock for Youtube™ تقریباً ذخیره شد. $savedTime$ از عمر شما.",
+      "message": "VAB-YTتقریباً ذخیره شد. $savedTime$ از عمر شما.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "توسط Adblock برای YouTube™ پاکسازی شد"
+      "message": "VAB-YT پاکسازی شد"
    }
 }

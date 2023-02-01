@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "गोपनीयता जागरूक, YouTube™ के लिए सुरक्षित एडब्लॉकर। YouTube.com पर विज्ञापनों को ब्लॉक करता है।"
+      "message": "YouTube से सभी कष्टप्रद विज्ञापन और बैनर हटा देता है!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "YouTube™ . के लिए एडब्लॉक — best adblocker"
+      "message": "Video Ads Blocker for Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Youtube™ के लिए एडब्लॉक लगभग सहेजा गया। आपके जीवनकाल का $savedTime$।",
+      "message": "VAB-YTएडब्लॉक लगभग सहेजा गया। आपके जीवनकाल का $savedTime$।",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "YouTube™ . के लिए Adblock द्वारा साफ़ किया गया"
+      "message": "VAB-YT द्वारा साफ़ किया गया"
    }
 }

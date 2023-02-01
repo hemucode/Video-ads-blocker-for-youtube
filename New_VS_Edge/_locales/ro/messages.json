@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Adblock securizat și conștient de confidențialitate pentru YouTube™. Blochează reclamele pe YouTube.com."
+      "message": "Elimină toate reclamele și bannere enervante de pe YouTube!"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Adblock pentru YouTube™ — best adblocker"
+      "message": "Video Ads Blocker pentru Youtube™"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock pentru Youtube™ salvat aprox. $savedTime$ din viața ta.",
+      "message": "VAB-YT salvat aprox. $savedTime$ din viața ta.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Curățat de Adblock pentru YouTube™"
+      "message": "Curățat de VAB-YT"
    }
 }

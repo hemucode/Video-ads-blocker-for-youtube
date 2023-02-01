@@ -21,10 +21,10 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "YouTube™ için gizliliğe duyarlı, güvenli Adblock. YouTube.com'daki Reklamları Engeller."
+      "message": "Tüm can sıkıcı reklamları ve banner'ları YouTube'dan kaldırır!"
    },
    "extensionName": {
-      "description": "The name of the application",
+      "description": "Video Ads engelleyici for Youtube™",
       "message": "YouTube™ için Adblock — best adblocker"
    },
    "extensionShortName": {
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Youtube™ için Adblock yakl. Hayatınızın $savedTime$'ı.",
+      "message": "VAB-YT yakl. Hayatınızın $savedTime$'ı.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "YouTube™ için Adblock tarafından temizlendi"
+      "message": "VAB-YT tarafından temizlendi"
    }
 }

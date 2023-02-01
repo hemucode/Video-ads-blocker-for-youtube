@@ -21,11 +21,11 @@
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "YouTube™용 개인 정보 보호 보안 Adblock. YouTube.com에서 광고를 차단합니다."
+      "message": "YouTube에서 모든 성가신 광고와 배너를 제거합니다"
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "YouTube™용 Adblock — best adblocker"
+      "message": "Youtube ™ 용 동영상 광고 차단기"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
@@ -43,7 +43,7 @@
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "YouTube™용 Adblock은 약 평생의 $savedTime$.",
+      "message": "VAB-YT 약 평생의 $savedTime$.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "YouTube™용 Adblock으로 정리"
+      "message": "VAB-YT 으로 정리"
    }
 }

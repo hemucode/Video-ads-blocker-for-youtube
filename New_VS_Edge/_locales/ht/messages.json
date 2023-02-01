@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Adblock pou YouTube™ — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Konsyan sou enfòmasyon prive, sekirize Adblock pou YouTube™. Bloke Piblisite sou YouTube.com.",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "Andikape"
   },
   "timesaveInfo": {
-    "message": "Adblock pou Youtube™ sove apeprè. $savedTime$ nan lavi ou.",
+    "message": "VAB-YT sove apeprè. $savedTime$ nan lavi ou.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "Netwaye pa Adblock pou YouTube™",
+    "message": "Netwaye pa VAB-YT",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

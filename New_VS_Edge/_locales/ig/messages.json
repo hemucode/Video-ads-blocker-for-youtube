@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Adblock maka YouTube™ — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Mara nzuzo, Adblock echekwara maka YouTube™. Na-egbochi mgbasa ozi na YouTube.com.",
+    "message": "apus semua iklan dan spanduk yang mengganggu dari YouTube!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "Agbanyụrụ"
   },
   "timesaveInfo": {
-    "message": "Adblock maka Youtube™ echekwara ihe ruru. $savedTime$ nke ndụ gị.",
+    "message": "VAB-YT echekwara ihe ruru. $savedTime$ nke ndụ gị.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "Adblock kpochara ya maka YouTube™",
+    "message": "VAB-YT YouTube™",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

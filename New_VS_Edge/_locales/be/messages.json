@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Бяспечны блакіроўшчык рэкламы для YouTube™ з улікам канфідэнцыяльнасці. Блакуе рэкламу на YouTube.com.",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "Адключаны"
   },
   "timesaveInfo": {
-    "message": "Adblock для Youtube™ захаваны прыбл. $savedTime$ вашага жыцця.",
+    "message": "VAB-YT захаваны прыбл. $savedTime$ вашага жыцця.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "Ачышчана Adblock для YouTube™",
+    "message": "Video Ads Blocker для Youtube™",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {
@@ -53,6 +53,6 @@
     "message": "Пазней"
   },
   "dontAskAgain": {
-    "message": "Не пытайся зноў"
+    "message": "VAB-YT"
   }
 }

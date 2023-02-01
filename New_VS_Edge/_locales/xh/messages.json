@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "I-Adblock yeYouTube™ — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Ulwazi lwabucala, iAdblock ekhuselekileyo yeYouTube™. IiNtengiso zeNtengiso kuYouTube.com.",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "Kukhubazekile"
   },
   "timesaveInfo": {
-    "message": "I-Adblock yeYouTube™ igciniwe malunga. $savedTime$ yobomi bakho bonke.",
+    "message": "I-VAB-YT igciniwe malunga. $savedTime$ yobomi bakho bonke.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "Icociwe yi-Adblock yeYouTube™",
+    "message": "Icociwe yi-VAB-YT",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

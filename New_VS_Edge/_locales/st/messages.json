@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Adblock bakeng sa YouTube™ — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Ho tseba ka lekunutu, Adblock e sireletsehileng bakeng sa YouTube™. E thibela Lipapatso ho YouTube.com.",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "E holofetse"
   },
   "timesaveInfo": {
-    "message": "Adblock bakeng sa Youtube™ e bolokiloe hoo e ka bang. $savedTime$ bophelo bohle ba hao.",
+    "message": "VAB-YT e bolokiloe hoo e ka bang. $savedTime$ bophelo bohle ba hao.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "E hloekisitsoe ke Adblock bakeng sa YouTube™",
+    "message": "E hloekisitsoe ke VAB-YT",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

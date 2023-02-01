@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "YouTube™ සඳහා Adblock — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "YouTube™ සඳහා රහස්‍යතා දැනුවත්, ආරක්ෂිත Adblock. YouTube.com හි දැන්වීම් අවහිර කරයි.",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "ආබාධිතයි"
   },
   "timesaveInfo": {
-    "message": "Youtube™ සඳහා Adblock සුරකින ලද දළ වශයෙන්. ඔබේ ජීවිත කාලයෙහි $ ඉතිරි කළ කාලය.",
+    "message": "VAB-YT සුරකින ලද දළ වශයෙන්. ඔබේ ජීවිත කාලයෙහි $ ඉතිරි කළ කාලය.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "YouTube™ සඳහා Adblock මගින් පිරිසිදු කර ඇත",
+    "message": "VAB-YT මගින් පිරිසිදු කර ඇත",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {

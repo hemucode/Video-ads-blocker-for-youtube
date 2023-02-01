@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Adblock fir YouTube™ — best adblocker",
+    "message": "Video Ads Blocker for Youtube™",
     "description": "The name of the application"
   },
   "extensionShortName": {
@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name."
   },
   "extensionDescription": {
-    "message": "Privatsphär bewosst, sécher Adblock fir YouTube ™. Blockéiert Annoncen op YouTube.com.",
+    "message": "Auto skip ads when watching YouTube videos. Let YouTube no ads!",
     "description": "The description of the application"
   },
   "actionTitle": {
@@ -21,7 +21,7 @@
     "message": "Behënnert"
   },
   "timesaveInfo": {
-    "message": "Adblock fir Youtube™ gespäichert ca. $savedTime$ vun Ärem Liewen.",
+    "message": "VAB-YT gespäichert ca. $savedTime$ vun Ärem Liewen.",
     "description": "Tells the user how many time he saved already.",
     "placeholders": {
       "savedTime": {
@@ -31,7 +31,7 @@
     }
   },
   "videoBranding": {
-    "message": "Gebotzt duerch Adblock fir YouTube ™",
+    "message": "Gebotzt duerch VAB-YT",
     "description": "Shown below a video"
   },
   "displayVideoBranding": {
