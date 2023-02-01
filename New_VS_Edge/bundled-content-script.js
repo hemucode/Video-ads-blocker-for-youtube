@@ -19,6 +19,7 @@ async function init() {
 
   const enabled = await a;
   // console.log(enabled);
+  
 
   var b = new Promise(function(resolve, reject){
         chrome.storage.sync.get({"displayVideoBranding": true}, function(options){
@@ -180,7 +181,7 @@ function appendVideoIndicator(target) {
   // Create Element
   const anchor = document.createElement("a");
   anchor.className = "adblock-for-youtube-branding yt-formatted-string";
-  anchor.href = `https://chrome.google.com/webstore/detail/${chrome.runtime.id}`;
+  anchor.href = `https://microsoftedge.microsoft.com/addons/detail/${chrome.runtime.id}`;
   anchor.textContent = chrome.i18n.getMessage("videoBranding");
   anchor.target = "_blank";
   anchor.rel = "noopener";
@@ -206,7 +207,7 @@ function appendVideoIndicator(target) {
     return navigator.share({
       title: chrome.i18n.getMessage("extensionName"),
       text: chrome.i18n.getMessage("extensionDescription"),
-      url: `https://chrome.google.com/webstore/detail/${chrome.runtime.id}`,
+      url: `https://microsoftedge.microsoft.com/addons/detail/${chrome.runtime.id}`,
     });
   };
 
@@ -341,7 +342,7 @@ function createRatingQuestion(videoCount) {
   ]);
 
   const reviewButton = document.createElement("a");
-  reviewButton.href = `https://chrome.google.com/webstore/detail/${chrome.runtime.id}`;
+  reviewButton.href = `https://microsoftedge.microsoft.com/addons/detail/${chrome.runtime.id}`;
   reviewButton.target = "_blank";
   reviewButton.rel = "noopener";
   reviewButton.style.backgroundColor = "var(--yt-spec-badge-chip-background)";
