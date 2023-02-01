@@ -29,7 +29,7 @@
    "default_locale": "en",
    "description": "__MSG_extensionDescription__",
    "host_permissions": [ "\u003Call_urls>" ],
-   "homepage_url": "https://www.downloadhub.cloud/2022/11/adblock-for-youtube.html",
+   "homepage_url": "https://www.codehemu.com/p/videoadsblockerforyoutube.html",
    "icons": {
       "1024": "data/icons/icon-1024.png",
       "128": "data/icons/icon-128.png",
@@ -45,7 +45,7 @@
    },
    "permissions": [ "declarativeNetRequest", "declarativeNetRequestFeedback", "storage", "scripting", "webNavigation", "tabs" ],
    "short_name": "__MSG_extensionShortName__",
-   "version": "1.0.5",
+   "version": "3.0.2",
    "web_accessible_resources": [ {
       "matches": [ "*://*.youtube.com/*" ],
       "resources": [ "lib/scriptlets.js" ]
