@@ -117,8 +117,6 @@ async function enable() {
   });
   await chrome.action.setIcon({
     path: {
-      16: "data/icons/icon-16.png",
-      19: "data/icons/icon-19.png",
       32: "data/icons/icon-32.png",
       38: "data/icons/icon-38.png",
       128: "data/icons/icon-128.png",
@@ -136,8 +134,6 @@ async function disable() {
   });
   await chrome.action.setIcon({
     path: {
-      16: "data/icons/icon-disabled-16.png",
-      19: "data/icons/icon-disabled-19.png",
       32: "data/icons/icon-disabled-32.png",
       38: "data/icons/icon-disabled-38.png",
       128: "data/icons/icon-disabled-128.png",
